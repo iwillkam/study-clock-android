@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Routine Clock</string>
+    <string name="dismiss_alarm">DISMISS ALARM</string>
+</resources>
